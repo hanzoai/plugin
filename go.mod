@@ -4,6 +4,7 @@ go 1.26.8
 
 require (
 	github.com/evanw/esbuild v0.28.2
+	github.com/tetratelabs/wazero v1.12.0
 	github.com/zap-proto/zip v1.36.48
 )
 

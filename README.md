@@ -1,5 +1,7 @@
 # runtime
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/plugin&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/plugin&ref=main&action=edit)
+
 One plugin runtime for the Hanzo estate: a module declares what it exports, and
 a caller invokes an export by name with JSON in and JSON out. What language the
 module is written in is a property of the module, not of the caller.
